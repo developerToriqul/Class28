@@ -198,6 +198,15 @@ footer p{
         display: flex;
         justify-content: center;
     }
+    input.form-control.py-2 {
+        margin-bottom: 19px;
+    }
+    textarea.form-control.mt-3 {
+        margin-top: 2px !important;
+    }
+    .form-section .f-content {
+        margin-top: 51px;
+    }
 }
 
 @media (max-width:576px){
@@ -220,6 +229,7 @@ footer p{
     textarea.form-control.mt-3 {
         margin-top: 2px !important;
     }
+    
 }
 
 .s-content{
